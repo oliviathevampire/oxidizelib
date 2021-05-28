@@ -30,12 +30,6 @@ dependencies {
 
     // Fabric API
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fapi_version}"
-	
-	// ModMenu
-    modImplementation "com.terraformersmc:modmenu:${project.modmenu_version}"
-	
-	// RoughlyEnoughItems
-    //modImplementation "me.shedaniel:RoughlyEnoughItems:${project.rei_version}"
 }
 
 java {
